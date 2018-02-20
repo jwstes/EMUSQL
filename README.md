@@ -1,4 +1,4 @@
-# MEMUSQL - C#
+# EMUSQL - C#
 
 Tool to perform SQL commands
 
